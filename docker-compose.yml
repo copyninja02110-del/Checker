@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  kakashi-bot:
+    build: .
+    restart: unless-stopped
+    ports: ['3000:3000']
+    env_file: .env
+    volumes: [bot-data:/app/bot-data]
+volumes:
+  bot-data:

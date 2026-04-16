@@ -1,0 +1,7 @@
+python-dotenv==1.1.0
+fastapi==0.115.8
+uvicorn==0.34.0
+httpx==0.28.1
+python-telegram-bot==21.10
+pydantic==2.10.6
+pycountry==26.2.16

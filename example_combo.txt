@@ -1,0 +1,7 @@
+# Example combo file for Kakashi Checker Bot
+# Format: email:password (one per line)
+# Lines starting with # are ignored
+
+example1@hotmail.com:password123
+example2@outlook.com:test456
+example3@live.com:mypass789
